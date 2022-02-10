@@ -3,3 +3,11 @@
 - 🌱 I’m currently learning front-end technologies
 - 💞️ I’m looking to collaborate on web projects
 - 📫 I’m available for conversations on twitter and instagram: https://twitter.com/pedro__png, https://instagram.com/p3dr0_ath 
+
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquelimasilva&show_icons=true&theme=vision-friendly-dark" alt="pedrohenriquelimasilva's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquelimasilva&layout=compact&theme=vision-friendly-dark" alt="pedrohenriquelimasilva's most languages"/>
+</p>
+
+<br><br>
