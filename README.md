@@ -13,7 +13,7 @@
 <h1>👨‍💻 Github analysis</h1>
 
 <div align="center" space='2rem'>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquelimasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="pedrohenriquelimasilva's stats"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquelimasilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="pedrohenriquelimasilva's stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquelimasilva&layout=compact&langs_count=7&theme=dark" alt="pedrohenriquelimasilva's most languages"/>
 </div>
 
